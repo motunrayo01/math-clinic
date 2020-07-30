@@ -1,0 +1,4 @@
+.w3-container{background-image: url(/math-clinic/image/bla5.jpg);background-attachment: fixed; background-position:center;
+    background-size: cover;background-clip: inherit;  height:100vh ;width: 100%;opacity:0.9 ;}
+h2{float:left;font-size: 22px;margin-left:15px; padding-top:0px;color:black;font-style: italic;opacity:1;text-shadow:1px -1px 3px cornflowerblue;}
+.ico{height:7vh;width:40%;border-radius:30px;background-color:darkgrey;margin-top:40px;margin-left:400px;opacity:0.8;}    
