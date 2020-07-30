@@ -1,3 +1,4 @@
 function sub(){
-     window.location="https://olayinka02.github.io/math-clinic/math1.html"; 
+     window.location="https://www.olayinka02.github.io/math-clinic/math1.html";
+ 
 };
