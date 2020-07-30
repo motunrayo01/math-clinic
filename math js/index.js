@@ -23,7 +23,7 @@ function sub(){
     document.myForm.password2.focus();
    return false;
    }else{
-     return (true);
+     return (window.location="https://olayinka02.github.io/math-clinic/math1.html/");
    }
    
 };
