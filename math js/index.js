@@ -24,7 +24,7 @@ function sum(){
     document.myForm.password2.focus();
    return false;
    }else{
-     window.location="http://www.math-clinic/math1.html";
+     window.location="http://www.olayinka02.github.io/math-clinic/math1.html";
    }
    
 
