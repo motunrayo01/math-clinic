@@ -1,4 +1,4 @@
 .w3-container{background-image: url(/math-clinic/image/bla1.jpg);background-attachment: fixed; background-position:center;
     background-size: cover;background-clip: inherit;  height:100vh ;width: 100vh;opacity:0.97 ;}
 h2{float:left;font-size: 22px;margin-left:15px; padding-top:0px;color:silver;font-style: italic;opacity:1;text-shadow:1px -1px 3px rgb(2, 8, 19);}
-.con{color:black;margin-bottom:40px;height:50vh;width:99.2%;border-radius:15px;background-color:darkgrey;opacity:0.8;padding:14px;}    
+.con{color:black;margin-bottom:40px;height:100vh;width:90vw;border-radius:15px;background-color:darkgrey;opacity:0.8;padding:14px;}    
